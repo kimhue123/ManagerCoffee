@@ -1,14 +1,14 @@
-<%@  page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@  page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Quản lý công ty taxi">
-    <meta name="author" content="SE04">
-    <title>Admin - SE04</title>
+    <meta name="description" content="Quản lý quán coffee">
+    <meta name="author" content="Dragon">
+    <title>Coffee</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<%=request.getContextPath() %>/templates/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -65,7 +65,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Admin Area - SE04</a>
+                <a class="navbar-brand" href="index.html">Admin Area</a>
             </div>
             <!-- /.navbar-header -->
 
